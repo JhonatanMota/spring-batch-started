@@ -1,0 +1,6 @@
+.vscode/launch.json
+.vscode/settings.json
+target/classes/application.properties
+target/classes/db/changelog/db.changelog.xml
+
+target/**
